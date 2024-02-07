@@ -12,7 +12,7 @@ The VHDL system takes a grayscale image of 256x256 pixels as input and applies t
 
 The Sobel operator is a widely used edge detection algorithm in image processing and computer vision. It works by calculating the gradient of the image intensity at each pixel, identifying the edges within the image. The gradient measures the rate of change in brightness and is computed using two 3x3 convolution kernels, one for the horizontal changes (Gx) and one for the vertical changes (Gy).e.
 
-<img src="https://homepages.inf.ed.ac.uk/rbf/HIPR2/figs/sobmasks.gif" width="500" height=auto alt="Image description">
+<img src="https://miro.medium.com/v2/resize:fit:1038/1*4lPMjSPaS2JLWZAaYrXr2Q.jpeg" width="500" height=auto alt="Image description">
 
 The Sobel operator is a cornerstone of edge detection in image processing and computer vision. It identifies edges by calculating the gradient of image intensity at each pixel, thus highlighting regions of high spatial frequency that correspond to edges.
 
